@@ -1,0 +1,18 @@
+.tobuy {
+    border-radius: 10%;
+
+    width: 100px;
+    max-width: 200px;
+    margin: 5px;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.tobuy__img {
+    width: 100%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+
+.tobuy__name {
+}

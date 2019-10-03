@@ -1,0 +1,16 @@
+.buybutton__link{
+    text-decoration: none
+}
+
+.buybutton{
+    background: rgb(96, 96, 245);
+    height:40px;
+    position: fixed;
+    bottom: 0;
+    left:0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+   
+    
+}
